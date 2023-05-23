@@ -32,9 +32,6 @@ This project is used by the following companies:
 - Thanks to @FrenchCoder for some of the code
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at fake@fake.com
 ## Lessons Learned
 
 Frontend with Bootstrap is easy. Backend with PHP is hard.
