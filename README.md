@@ -39,7 +39,8 @@ Frontend with Bootstrap is easy. Backend with PHP is hard.
 
 ## Screenshots
 
-![App Screenshot](https://zupimages.net/up/23/21/as58.png)
-![App Screenshot](https://zupimages.net/up/23/21/ukh1.png)
-![App Screenshot](https://zupimages.net/up/23/21/6p2p.png)
-![App Screenshot](https://zupimages.net/up/23/21/tavc.png)
+![App Screenshot]([https://zupimages.net/up/23/21/as58.png](https://zupimages.net/up/23/22/i2lu.png))
+![App Screenshot]([https://zupimages.net/up/23/21/ukh1.png](https://zupimages.net/up/23/22/s1oo.png))
+![App Screenshot](https://zupimages.net/up/23/22/8w3f.png)
+![App Screenshot](https://zupimages.net/up/23/22/izrd.png)
+![App Screenshot](https://zupimages.net/up/23/22/202b.png)
