@@ -6,7 +6,7 @@ This is a website to share our bugs to the community. People can help you with y
 
 ## Authors
 
-- [@VAXS](https://www.github.com/vaxs02)
+- [@VAXS](https://www.github.com/GaelHF)
 
 
 ## Used By
